@@ -1,5 +1,5 @@
-imblearn
-scikit-learn
+imbalanced-learn==0.13.0
+scikit-learn==1.6.1
 streamlit
 pandas
 joblib
