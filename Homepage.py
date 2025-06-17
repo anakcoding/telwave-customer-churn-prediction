@@ -211,7 +211,7 @@ if page == "Home":
         """, unsafe_allow_html=True)
     
     st.markdown('''
-    For details on how the model works, visit: [Click Here]()
+    For details on how the model works, visit: [Click Here](https://github.com/anakcoding/Customer-Churn-Risk-Identification-and-Mitigation-Strategy-at-Telco-Industry)
     
     Created by: Team Alpha
 ''')
